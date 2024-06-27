@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on uzresume - free resume builder
 - 🌱 I’m currently learning Testing, Data Science
 - 💬 Ask me about Javascript
-- 📫 How to reach me: telegram/instagram/twitter [@IqbolXasan](https://t.me/IqboljonHasan) 
+- 📫 How to reach me: telegram/instagram/twitter [@IqboljonHasan](https://t.me/IqboljonHasan) 
 
 <!--
 **iqbolxasan/iqbolxasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
