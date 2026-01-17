@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Uzinfocom
+- 🔭 I’m currently working at Uzinfocom as React Frontend Engineer
 - 🌱 I’m currently learning Testing, Data Science
 - 💬 Ask me about Javascript
 - 📫 How to reach me: telegram/instagram/twitter [@IqboljonHasan](https://t.me/IqboljonHasan) 
